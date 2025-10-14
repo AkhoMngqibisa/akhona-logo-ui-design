@@ -25,7 +25,8 @@ You can view the design here:
 ## Repository Structure
 ```
 /design
-└── logo.fig
+└── Akhona Logo.fig
+└── akhona-logo.html
 /assets
 └── exports (PNG / SVG)
 /README.md
