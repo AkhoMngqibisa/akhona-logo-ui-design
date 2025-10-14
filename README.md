@@ -21,3 +21,20 @@ The logo was designed in Figma, focusing on:
 You can view the design here:
 - Figma file (view-only): _link coming soon_
 - Hosted preview: _to be added_
+
+## Repository Structure
+```
+/design
+└── logo.fig
+/assets
+└── exports (PNG / SVG)
+/README.md
+```
+
+## Usage
+This logo is part of my personal brand.  
+Please do not use it for commercial purposes without permission.
+
+## Author
+**Akhona Mngqibisa**  
+Software Developer  
